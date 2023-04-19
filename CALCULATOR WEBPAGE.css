@@ -1,0 +1,28 @@
+#p {font-size: 80px; margin: auto;}
+
+h1 {color: white;}
+h1 {background-color: darkblue;}
+
+h2 {color: white;}
+h2 {background-color: blue;}
+
+h3 {color: white;}
+h3 {background-color: darkblue;}
+
+marquee {color: white;}
+marquee {background-color: grey;}
+	
+ul {list-style-type:none;
+	color: grey;}
+
+li {float: auto;}
+
+li a {text-align: center;
+	padding: 0px 99px;
+	background-color: darkblue;
+	color: white;
+	text-decoration: none;}
+
+li a:hover:not(.active) {background-color: blue;}
+
+.active {background-color: white;}
